@@ -8,7 +8,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **GitHub Username:** @kmoshada
 - **Location:** Galle
 - **Background:** Student
-- **Learning Goals:** ML
+- **Learning Goals:** ML/DS
 - **Fun Fact:** ...///...//
 - **Date Added:** 07/04/2026
 
